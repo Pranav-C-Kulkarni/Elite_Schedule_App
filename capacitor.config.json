@@ -1,0 +1,10 @@
+{
+    "appId": "Elite_Schedule_App",
+    "appName": "Elite_Schedule_App",
+    "webDir": "www",
+    "plugins": {
+      "SplashScreen": {
+        "launchShowDuration": 0
+      }
+    }
+}
